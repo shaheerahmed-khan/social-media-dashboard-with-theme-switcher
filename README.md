@@ -21,7 +21,7 @@
 ### Links
 
 - Solution URL: [Solution](https://github.com/shaheerahmedkhan11/social-media-dashboard-with-theme-switcher)
-- Live Site URL: [Live Site](https://shaheerahmedkhan11.github.io/social-media-dashboard-with-theme-switcher/)
+- Live Site URL: [Live Site](https://shaheerahmed-khan.github.io/social-media-dashboard-with-theme-switcher/)
 
 ## My process
 
